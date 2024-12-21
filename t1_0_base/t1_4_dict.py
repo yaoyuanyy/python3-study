@@ -13,3 +13,7 @@ print(dict2.get("not exist"))
 # print(dict2["not exist"]) 会报错
 print("not exist" in dict2.keys())
 
+for k, v in dict2.items():
+    print("k:%s v:%s" % (k, v))
+
+
