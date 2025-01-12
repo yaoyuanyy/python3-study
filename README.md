@@ -13,5 +13,7 @@
 学习参考 
 - 廖雪峰Python教程 https://liaoxuefeng.com/books/python/basic/index.html
 
+java程序员学习python，通过[菜鸟](https://www.runoob.com/python3/python3-tutorial.html)，效率会很高
+
 
 

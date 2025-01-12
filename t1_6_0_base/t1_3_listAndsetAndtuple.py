@@ -26,3 +26,12 @@ print(set2)
 tuple2 = (1, "2", '3')
 for t in tuple2:
     print(f"元组的元素为 %s" % t)
+
+for index, item in enumerate(tuple2):
+    print("下标%s，元素%s" % (index, item))
+
+# 对元组访问
+print("通过大括号访问元组元素，第二个元素的值", tuple2[1])
+
+# 元组中值为2的元素的个数
+print("元组中值为2的元素的个数", tuple2.count(2))
