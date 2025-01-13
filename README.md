@@ -16,4 +16,15 @@
 java程序员学习python，通过[菜鸟](https://www.runoob.com/python3/python3-tutorial.html)，效率会很高
 
 
+## 学习中遇到的疑问
+
+1. if __name__ == __main__: 是什么，做什么用的？
+
+[if __name__ == '__main__' 如何正确理解?](https://zhuanlan.zhihu.com/p/344951719)
+
+[Python 中的 if __name__ == __main__](https://www.freecodecamp.org/chinese/news/if-name-main-python-example/)
+
+[What does if __name__ == "__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
+
+2. 
 
