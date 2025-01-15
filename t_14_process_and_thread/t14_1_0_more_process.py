@@ -12,7 +12,7 @@ def create_proc(name):
 
 if(__name__ == "__main__"):
     print("parent process is %s:" % os.getpid())
-    process = Process(target=create_proc, args=("child_test",), ttt=111)
+    process = Process(target=create_proc, args=("child_test",))
     print("child process had created")
     process.start()
     process.join(1000)
