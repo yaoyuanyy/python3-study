@@ -28,3 +28,7 @@ java程序员学习python，通过[菜鸟](https://www.runoob.com/python3/python
 
 2. 
 
+# python 英文教程
+[geeksforgeeks](https://www.geeksforgeeks.org/python-classes-and-objects/)
+
+[python有用代码段](https://pythonclcoding.medium.com/)
