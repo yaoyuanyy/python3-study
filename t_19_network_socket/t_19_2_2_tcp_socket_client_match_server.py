@@ -17,9 +17,13 @@ print("recv text:", text)
 
 for data in [b"aaa", b"bbb", b"ccc"]:
     s.send(data)
-    text = s.recv(1024).decode("utf-8")
-    print("recv text:", text)
+    print("sent data:%s " % data)
 
+    recvData = s.recv(1024).decode("utf-8")
+    print("recv data:", recvData)
+
+
+print("发送数据:exit")
 s.send(b"exit")
 s.close()
 
