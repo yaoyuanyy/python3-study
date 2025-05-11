@@ -15,6 +15,7 @@
 
 java程序员学习python，通过[菜鸟](https://www.runoob.com/python3/python3-tutorial.html)，效率会很高
 
+这个网站学习资料也不错：[w3schools](https://www.w3schools.com/python/python_mysql_select.asp)
 
 ## 学习中遇到的疑问
 
@@ -32,3 +33,4 @@ java程序员学习python，通过[菜鸟](https://www.runoob.com/python3/python
 [geeksforgeeks](https://www.geeksforgeeks.org/python-classes-and-objects/)
 
 [python有用代码段](https://pythonclcoding.medium.com/)
+
