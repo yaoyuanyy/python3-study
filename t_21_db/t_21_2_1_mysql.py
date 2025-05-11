@@ -41,7 +41,7 @@ try:
 
     result = cursor.fetchall()
     for row in result:
-        print(row)
+        print("db result:", row)
 
 except:
     pass
