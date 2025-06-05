@@ -26,5 +26,6 @@ def signin():
     return '<h3> bad username or password</h3>'
 
 
+# Flask 自带 http 端口：5000；debug=true相当于代码热更新
 if __name__ == '__main__':
     app.run(debug=True)
